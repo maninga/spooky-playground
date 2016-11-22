@@ -1,0 +1,23 @@
+{
+  "name": "spooky-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./scripts/postinstall.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maninga/spooky-playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maninga/spooky-playground/issues"
+  },
+  "homepage": "https://github.com/maninga/spooky-playground#readme",
+  "dependencies": {
+    "spooky": "^0.2.5"
+  }
+}
