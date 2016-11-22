@@ -1,0 +1,11 @@
+Dependencies:
+  node (v6.9.1+), I use nvm (https://github.com/creationix/nvm) so I can test my code with multiple node version, and this is usefull to get the same configuration on many environments.
+
+Installation:
+  git clone https://github.com/maninga/spooky-playground.git
+  cd spooky-playground
+  npm install
+
+Run:
+  node index.js or node googleSearch.js
+
